@@ -1,1 +1,1 @@
-# Credit-Card-Fraud-Detection-Using-Logistic-regrassion
+# Credit-Card-Fraud-Detection-Using-Logistic-regression
